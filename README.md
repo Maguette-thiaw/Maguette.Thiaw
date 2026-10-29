@@ -201,7 +201,7 @@ Ce portfolio constitue un espace pour documenter cette évolution et présenter 
 
 ## 🤝 Me retrouver
 
-- **LinkedIn :** Maguette Thiaw
+- **LinkedIn :** 🔗www.linkedin.com/in/maguette-thiaw6133b6389
 
 ---
 
