@@ -1,110 +1,72 @@
----
-layout: default
-title: Formation ingénieur
-permalink: /engineering-course/
----
-
 {% include navigation.html %}
 
 # Formation ingénieur
 
-Bienvenue dans cette rubrique consacrée à mon parcours académique, à mes apprentissages et à mes réalisations techniques dans le domaine du génie électrique.
-
-Mon parcours m'a permis d'acquérir progressivement des connaissances en électrotechnique, électronique, automatisme et systèmes électriques. Aujourd'hui, je souhaite approfondir particulièrement mes compétences dans le domaine de l'énergie électrique.
-
----
-
-## 1. Mon parcours académique
-
-### Toulouse INP – ENSEEIHT | 2026 – Aujourd'hui
-
-**Cycle ingénieur – Département 3EA**
-
-Actuellement en première année du cycle ingénieur à l'ENSEEIHT, je poursuis ma formation dans le domaine de l'électronique, de l'énergie électrique et de l'automatique, avec un intérêt particulier pour les systèmes électriques et les réseaux d'énergie.
-
-### Université Toulouse III – Paul Sabatier | 2025 – 2026
-
-**Licence 3 Électronique, Énergie électrique et Automatique (EEA)**
-
-Cette année universitaire m'a permis de consolider mes connaissances scientifiques et techniques, notamment en électronique, électrotechnique, traitement du signal et automatique.
-
-### École Supérieure Polytechnique de Dakar | 2023 – 2025
-
-**Diplôme Universitaire de Technologie (DUT) – Génie électrique**
-
-Cette formation m'a apporté des bases solides en électrotechnique, électronique, automatisme, installations électriques et informatique industrielle.
+Cette page rassemble les projets et réalisations techniques qui
+illustrent les compétences développées au cours de ma formation
+en génie électrique et en énergie électrique.
 
 ---
 
-## 2. Mes expériences de terrain
+## Projet technique – Maintenance des postes électriques HTA/BT
 
-### SENELEC – Thiès, Sénégal | 2025
+<figure>
+  <img src="{{ '/img/senelec/photo1.jpg' | relative_url }}"
+       alt="Intervention sur un poste électrique">
+  <figcaption>Illustration d'une activité réalisée durant mon stage à la SENELEC.</figcaption>
+</figure>
 
-**Maintenance des installations électriques**
+### Contexte
 
-- Participation aux opérations de maintenance préventive et corrective.
-- Découverte des installations de distribution électrique HTA/BT.
-- Lecture et exploitation de plans électriques.
-- Sensibilisation aux procédures de sécurité et aux interventions sur les équipements électriques.
+Dans le cadre de ma formation en génie électrique, j'ai effectué
+un stage à la SENELEC, au cours duquel j'ai découvert les activités
+liées à la maintenance des installations électriques.
 
+### Objectif
 
-### Africa Féliz – Thiès, Sénégal | 2024
+Comprendre le fonctionnement des postes électriques HTA/BT et
+participer aux opérations de maintenance préventive des équipements.
 
-**Automatisation et systèmes de traitement de l'eau**
+### Travaux réalisés
 
-- Participation au câblage de pupitres de commande.
-- Découverte des systèmes automatisés de désinfection et de filtration.
+- Participation aux opérations de maintenance préventive.
+- Découverte des équipements des postes HTA/BT.
+- Observation et utilisation de techniques de contrôle, notamment
+  la thermographie et le PD Scan.
+- Lecture et exploitation de documents et de plans électriques.
+- Application des consignes de sécurité lors des interventions.
 
----
+### Illustrations techniques
 
-## 3. Mes projets techniques
+Les images ci-dessous présenteront les équipements observés,
+les opérations de maintenance et les outils utilisés.
 
-Au cours de mes formations, j'ai eu l'occasion de travailler sur plusieurs projets permettant de mettre en pratique mes connaissances théoriques.
+<div class="project-gallery">
+  <img src="{{ '/img/senelec/photo2.jpg' | relative_url }}"
+       alt="Équipement électrique">
+  <img src="{{ '/img/senelec/photo3.jpg' | relative_url }}"
+       alt="Opération de maintenance">
+  <img src="{{ '/img/senelec/photo4.jpg' | relative_url }}"
+       alt="Matériel de contrôle">
+</div>
 
-### Installations électriques
+### Compétences développées
 
-Étude et dimensionnement d'une installation électrique basse et moyenne tension : sections de câbles, protections électriques et schémas de distribution.
+- Maintenance des installations électriques.
+- Connaissance des équipements HTA/BT.
+- Sensibilisation à la sécurité électrique.
+- Observation, analyse et diagnostic technique.
 
-### Énergie solaire
+### Retour d'expérience
 
-Étude et dimensionnement d'une installation photovoltaïque autonome.
-
-### Automatisation
-
-Réalisation d'un système de commande de pompe à l'aide d'un microcontrôleur ATmega328P.
-
-### Traitement de l'eau
-
-Étude et réalisation d'un système automatisé de traitement et de désinfection de l'eau potable.
-
-### Électronique
-
-Conception, simulation et validation de circuits électroniques à l'aide de logiciels spécialisés.
-
----
-
-## 4. Mes outils et compétences techniques
-
-Au fil de mes formations et de mes projets, j'ai développé une première expérience avec plusieurs outils techniques :
-
-- **MATLAB** : calcul scientifique et traitement du signal.
-- **LTspice** : simulation de circuits électroniques.
-- **Proteus** : conception et simulation électronique.
-- **PVSyst** : étude et dimensionnement photovoltaïque.
-- **AutoCAD** : dessin technique.
-- **Automgen et Shemaplic** : automatisme et schémas de commande.
-- **Quartus** : conception et simulation de systèmes logiques.
+Ce stage m'a permis de mieux comprendre les réalités du terrain
+et l'importance de la maintenance dans la fiabilité et la continuité
+de la distribution de l'énergie électrique.
 
 ---
 
-## 5. Mes objectifs de formation
+## Autres projets et réalisations
 
-Au cours de mon cycle ingénieur, je souhaite approfondir mes connaissances en énergie électrique, notamment dans les domaines suivants :
-
-- Production et conversion de l'énergie électrique.
-- Transport et distribution de l'électricité.
-- Réseaux électriques HTA et HTB.
-- Dimensionnement et protection des installations électriques.
-- Maintenance et fiabilité des équipements électriques.
-
-Mon objectif est de développer les compétences nécessaires pour contribuer à la conception, à l'exploitation et à l'amélioration des infrastructures électriques.
+Cette rubrique sera enrichie progressivement avec les projets,
+travaux pratiques, études et réalisations menés au cours de mon
+cycle ingénieur à l'ENSEEIHT.ion des infrastructures électriques.
