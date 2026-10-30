@@ -105,3 +105,40 @@ img {
     padding: 18px;
   }
 }
+.hero-heading {
+  margin-bottom: 20px;
+}
+
+.hero-content {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+
+.hero-photo {
+  flex: 0 0 200px;
+}
+
+.hero-photo img {
+  display: block;
+  width: 200px;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.hero-text h2 {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .hero-content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
