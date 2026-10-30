@@ -1,0 +1,107 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ===== Identité visuelle générale ===== */
+
+:root {
+  --navy: #10243B;
+  --turquoise: #16A6A1;
+  --light-bg: #F4F7FA;
+  --text: #263445;
+}
+
+body {
+  color: var(--text);
+  background: var(--light-bg);
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.7;
+}
+
+/* ===== Menu de navigation ===== */
+
+.main-navigation {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 16px 12px;
+  margin-bottom: 32px;
+  background: var(--navy);
+  border-radius: 10px;
+}
+
+.main-navigation a {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 9px 13px;
+  border-radius: 6px;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.main-navigation a:hover {
+  background: var(--turquoise);
+  color: white;
+}
+
+/* ===== Titres ===== */
+
+h1, h2, h3 {
+  color: var(--navy);
+}
+
+h1 {
+  font-weight: 750;
+  letter-spacing: -0.5px;
+}
+
+h2 {
+  border-bottom: 2px solid var(--turquoise);
+  padding-bottom: 8px;
+  margin-top: 35px;
+}
+
+/* ===== Liens ===== */
+
+a {
+  color: #087F83;
+}
+
+a:hover {
+  color: var(--navy);
+}
+
+/* ===== Présentation et contenu ===== */
+
+main {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+/* ===== Adaptation aux téléphones ===== */
+
+@media screen and (max-width: 600px) {
+  .main-navigation {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .main-navigation a {
+    text-align: center;
+  }
+
+  main {
+    padding: 18px;
+  }
+}
