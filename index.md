@@ -5,31 +5,45 @@ title: Accueil
 
 {% include navigation.html %}
 
-# Maguette THIAW
+<div class="hero">
+  <div class="hero-text">
+    <p class="eyebrow">PORTFOLIO • ÉLÈVE-INGÉNIEURE</p>
 
-### Élève-ingénieure en énergie électrique
-**Toulouse INP – ENSEEIHT | Département 3EA**
+    # Maguette THIAW
 
-Bienvenue sur mon portfolio !
+    ## Énergie électrique
 
-Actuellement élève-ingénieure à l'ENSEEIHT, je m'intéresse particulièrement aux systèmes électriques, aux réseaux de transport et de distribution d'énergie ainsi qu'aux installations de puissance.
+    **Toulouse INP – ENSEEIHT | Département 3EA**
 
-Mon parcours m'a permis d'acquérir des connaissances en génie électrique, en électronique et en automatisme, complétées par des expériences de terrain en maintenance électrique et industrielle.
+    Je m'intéresse aux systèmes électriques, aux réseaux de transport et de distribution d'énergie ainsi qu'aux installations de puissance.
 
-À travers ce portfolio, je souhaite présenter mon parcours, mes réalisations techniques, les compétences que je développe et la construction progressive de mon projet professionnel.
+    <a class="hero-button" href="{{ '/engineering-course/' | relative_url }}">Découvrir mon parcours</a>
+  </div>
+
+  <div class="hero-photo">
+    <img src="{{ '/img/Photo%20d’identité2.png' | relative_url }}" alt="Portrait de Maguette THIAW">
+  </div>
+</div>
 
 ---
 
-## Mon domaine d'intérêt
+## Bienvenue sur mon portfolio
 
-**Énergie électrique · Réseaux électriques · Installations de puissance · Maintenance électrique**
+À travers cet espace, je vous invite à découvrir mon parcours académique, mes expériences de terrain, mes réalisations techniques et la construction de mon projet professionnel.
 
-## Explorer mon portfolio
+## Mes domaines d'intérêt
 
-Retrouvez les différentes étapes de mon parcours, mes projets, mes engagements et mes perspectives professionnelles à travers les rubriques du menu.
+- Énergie électrique et réseaux électriques
+- Transport et distribution de l'énergie
+- Installations électriques et maintenance
+- Automatisme et systèmes industriels
+
+## Mon objectif
+
+Contribuer au développement et à l'amélioration des systèmes électriques, en particulier dans les domaines du transport, de la distribution et des infrastructures énergétiques.
 
 ---
 
 ## Me retrouver
 
-- [Mon profil LinkedIn](https://linkedin.com/in/maguette-thiaw-6133b6389)
+[Mon profil LinkedIn](https://linkedin.com/in/maguette-thiaw-6133b6389)n.com/in/maguette-thiaw-6133b6389)
