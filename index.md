@@ -26,9 +26,8 @@ title: Accueil
   </div>
 
   <div class="hero-photo">
-    <img
-      src="{{ '/img/[Photo%20d%E2%80%99identit%C3%A92.png](https://github.com/Maguette-thiaw/Maguette.Thiaw/blob/main/img/Photo%20d%E2%80%98identit%C3%A92.png)' | relative_url }}"
-      alt="Portrait de Maguette THIAW">
+    <img src="{{ '/img/photo.png' | relative_url }}"
+         alt="Portrait de Maguette THIAW">
   </div>
 </div>
 
@@ -54,6 +53,10 @@ en particulier dans les domaines du transport, de la distribution et des
 infrastructures énergétiques.
 
 ---
+
+## Me retrouver
+
+[Mon profil LinkedIn](https://linkedin.com/in/maguette-thiaw-6133b6389)
 
 ## Me retrouver
 
