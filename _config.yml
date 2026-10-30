@@ -2,4 +2,4 @@ title: "Maguette THIAW"
 description: "Portfolio d'élève-ingénieure en énergie électrique – Systèmes électriques, réseaux et installations de puissance"
 theme: jekyll-theme-minimal
 lang: fr
-show_downloads: false
+show_downloads: true
