@@ -11,7 +11,7 @@ en génie électrique et en énergie électrique.
 ## Projet technique – Maintenance des postes électriques HTA/BT
 
 <figure>
-  <img src="{{ '/img/senelec/photo1.jpg' | relative_url }}"
+  <img src="{{ '/img/senelec/photo2.jpg' | relative_url }}"
        alt="Intervention sur un poste électrique">
   <figcaption>Illustration d'une activité réalisée durant mon stage à la SENELEC.</figcaption>
 </figure>
@@ -42,11 +42,11 @@ Les images ci-dessous présenteront les équipements observés,
 les opérations de maintenance et les outils utilisés.
 
 <div class="project-gallery">
-  <img src="{{ '/img/senelec/photo2.jpg' | relative_url }}"
-       alt="Équipement électrique">
   <img src="{{ '/img/senelec/photo3.jpg' | relative_url }}"
-       alt="Opération de maintenance">
+       alt="Équipement électrique">
   <img src="{{ '/img/senelec/photo4.jpg' | relative_url }}"
+       alt="Opération de maintenance">
+  <img src="{{ '/img/senelec/photo5.jpg' | relative_url }}"
        alt="Matériel de contrôle">
 </div>
 
