@@ -26,6 +26,8 @@ title: Accueil
   </div>
 
   <div class="hero-photo">
+    <div class="hero">
+  <div class="hero-text">
     <img src="{{ 'photo2.png' | relative_url }}"
          alt="Portrait de Maguette THIAW">
   </div>
