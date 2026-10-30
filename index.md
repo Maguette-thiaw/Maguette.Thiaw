@@ -9,19 +9,26 @@ title: Accueil
   <div class="hero-text">
     <p class="eyebrow">PORTFOLIO • ÉLÈVE-INGÉNIEURE</p>
 
-    # Maguette THIAW
+    <h1>Maguette THIAW</h1>
 
-    ## Énergie électrique
+    <h2>Énergie électrique</h2>
 
-    **Toulouse INP – ENSEEIHT | Département 3EA**
+    <p><strong>Toulouse INP – ENSEEIHT | Département 3EA</strong></p>
 
-    Je m'intéresse aux systèmes électriques, aux réseaux de transport et de distribution d'énergie ainsi qu'aux installations de puissance.
+    <p>
+      Je m'intéresse aux systèmes électriques, aux réseaux de transport
+      et de distribution d'énergie ainsi qu'aux installations de puissance.
+    </p>
 
-    <a class="hero-button" href="{{ '/engineering-course/' | relative_url }}">Découvrir mon parcours</a>
+    <a class="hero-button" href="{{ '/engineering-course/' | relative_url }}">
+      Découvrir mon parcours
+    </a>
   </div>
 
   <div class="hero-photo">
-    <img src="{{ '/img/Photo%20d’identité2.png' | relative_url }}" alt="Portrait de Maguette THIAW">
+    <img
+      src="{{ '/img/Photo%20d%E2%80%99identit%C3%A92.png' | relative_url }}"
+      alt="Portrait de Maguette THIAW">
   </div>
 </div>
 
@@ -29,7 +36,9 @@ title: Accueil
 
 ## Bienvenue sur mon portfolio
 
-À travers cet espace, je vous invite à découvrir mon parcours académique, mes expériences de terrain, mes réalisations techniques et la construction de mon projet professionnel.
+À travers cet espace, je vous invite à découvrir mon parcours académique,
+mes expériences de terrain, mes réalisations techniques et la construction
+de mon projet professionnel.
 
 ## Mes domaines d'intérêt
 
@@ -40,10 +49,12 @@ title: Accueil
 
 ## Mon objectif
 
-Contribuer au développement et à l'amélioration des systèmes électriques, en particulier dans les domaines du transport, de la distribution et des infrastructures énergétiques.
+Contribuer au développement et à l'amélioration des systèmes électriques,
+en particulier dans les domaines du transport, de la distribution et des
+infrastructures énergétiques.
 
 ---
 
 ## Me retrouver
 
-[Mon profil LinkedIn](https://linkedin.com/in/maguette-thiaw-6133b6389)n.com/in/maguette-thiaw-6133b6389)
+[Mon profil LinkedIn](https://linkedin.com/in/maguette-thiaw-6133b6389)ttps://linkedin.com/in/maguette-thiaw-6133b6389)n.com/in/maguette-thiaw-6133b6389)
