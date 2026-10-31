@@ -15,7 +15,7 @@ complet.
 
 ---
 
-## DUT Génie Électrique, ESP de Dakar (2023-2025) : apprendre les fondations
+## DUT Génie Électrique, ESP de Dakar (2023-2025) 
 
 C'est là que j'ai découvert le métier de l'intérieur. J'y ai appris
 l'électrotechnique, l'électronique et l'automatisme, mais surtout à
@@ -115,7 +115,7 @@ concrète, qui a confirmé mon intérêt pour l'énergie.
 
 ---
 
-## Licence 3 EEA, Université Paul Sabatier (2025-2026) : comprendre pourquoi ça marche
+## Licence 3 EEA, Université Paul Sabatier (2025-2026) 
 
 À Toulouse, je suis passée du geste à la compréhension : électronique de
 puissance, automatique, contrôle-commande. J'ai donné un cadre théorique
@@ -159,7 +159,7 @@ des autres.
 
 ---
 
-## ENSEEIHT, cycle ingénieur (2026-) : concevoir des systèmes
+## ENSEEIHT, cycle ingénieur (2026-) 
 
 Je viens d'intégrer l'ENSEEIHT, à Toulouse, où je suis en première
 année de génie électrique et électronique. Je choisirai bientôt ma
