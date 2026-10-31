@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 
-/* ===== Identité visuelle ===== */
+/* ==============================
+   1. IDENTITÉ VISUELLE
+============================== */
 
 :root {
   --navy: #10243B;
@@ -19,7 +21,9 @@ body {
   line-height: 1.7;
 }
 
-/* ===== Mise en page pleine largeur ===== */
+/* ==============================
+   2. MISE EN PAGE PLEINE LARGEUR
+============================== */
 
 .wrapper {
   width: 92%;
@@ -27,34 +31,38 @@ body {
   margin: 0 auto;
 }
 
-header {
-  float: none;
-  position: relative;
-  width: 100%;
-}
-
-section {
-  float: none;
-  width: 100%;
-  max-width: none;
-  padding: 30px 0 60px;
-}
-
+header,
+section,
 footer {
   float: none;
   position: relative;
   width: 100%;
+  max-width: none;
+}
+
+header {
+  padding: 20px 0;
+}
+
+section {
+  padding: 25px 0 60px;
+}
+
+footer {
+  padding: 20px 0;
 }
 
 main {
   width: 100%;
   box-sizing: border-box;
-  background: white;
+  background: #FFFFFF;
   padding: 35px;
   border-radius: 12px;
 }
 
-/* ===== Menu de navigation ===== */
+/* ==============================
+   3. NAVIGATION
+============================== */
 
 .main-navigation {
   display: flex;
@@ -69,23 +77,27 @@ main {
 }
 
 .main-navigation a {
-  color: white;
+  color: #FFFFFF;
   text-decoration: none;
   font-size: 14px;
   font-weight: 600;
   padding: 9px 13px;
   border-radius: 6px;
-  transition: background 0.3s ease, color 0.3s ease;
+  transition: background 0.3s ease;
 }
 
 .main-navigation a:hover {
   background: var(--turquoise);
-  color: white;
+  color: #FFFFFF;
 }
 
-/* ===== Titres ===== */
+/* ==============================
+   4. TITRES ET TEXTES
+============================== */
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   color: var(--navy);
 }
 
@@ -100,8 +112,6 @@ h2 {
   margin-top: 35px;
 }
 
-/* ===== Liens ===== */
-
 a {
   color: #087F83;
 }
@@ -110,18 +120,19 @@ a:hover {
   color: var(--navy);
 }
 
-/* ===== Images ===== */
-
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 10px;
-}
-
-/* ===== Présentation de la page d'accueil ===== */
+/* ==============================
+   5. PAGE D'ACCUEIL
+============================== */
 
 .hero-heading {
   margin-bottom: 20px;
+}
+
+.eyebrow {
+  color: var(--turquoise);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
 }
 
 .hero-profile {
@@ -135,7 +146,7 @@ img {
   object-fit: cover;
   object-position: center;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid #FFFFFF;
   box-shadow: 0 3px 12px rgba(16, 36, 59, 0.12);
 }
 
@@ -158,7 +169,7 @@ img {
   margin-top: 10px;
   padding: 10px 20px;
   background: var(--navy);
-  color: white;
+  color: #FFFFFF;
   text-decoration: none;
   border-radius: 6px;
   transition: background 0.3s ease;
@@ -166,14 +177,66 @@ img {
 
 .hero-button:hover {
   background: var(--turquoise);
-  color: white;
+  color: #FFFFFF;
 }
 
-/* ===== Adaptation aux téléphones ===== */
+/* ==============================
+   6. IMAGES ET PROJETS
+============================== */
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.project-image {
+  margin: 20px 0;
+}
+
+.project-image img {
+  display: block;
+  max-width: 100%;
+  max-height: 420px;
+  object-fit: contain;
+}
+
+.project-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 25px 0;
+}
+
+.project-gallery figure {
+  flex: 1 1 250px;
+  margin: 0;
+}
+
+.project-gallery img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.project-gallery figcaption {
+  margin-top: 8px;
+  color: #64748B;
+  font-size: 0.9em;
+}
+
+/* ==============================
+   7. ADAPTATION AUX TÉLÉPHONES
+============================== */
 
 @media screen and (max-width: 600px) {
+
   .wrapper {
     width: 94%;
+  }
+
+  main {
+    padding: 18px;
   }
 
   .main-navigation {
@@ -184,3 +247,17 @@ img {
   .main-navigation a {
     text-align: center;
   }
+
+  .hero-profile img {
+    width: 140px;
+    height: 140px;
+  }
+
+  .project-gallery {
+    flex-direction: column;
+  }
+
+  .project-gallery img {
+    height: auto;
+  }
+}
