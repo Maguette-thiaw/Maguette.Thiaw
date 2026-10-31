@@ -262,6 +262,29 @@ img {
   }
 }
 
+
+/* Fond animé du réseau électrique */
+#energy-canvas {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.75;
+}
+
+/* Le contenu reste au-dessus de l'animation */
+.wrapper {
+  position: relative;
+  z-index: 1;
+}
+
+/* Fond général */
+body {
+  background: #F4F7FA;
+}
+
 /* Masquer l'en-tête automatique du thème Minimal */
 header {
   display: none !important;
