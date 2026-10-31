@@ -50,7 +50,7 @@ diagnostic sur place.
 
 **Rapport technique**
 
-[Consulter un rapport technique que j'ai rédigé](#)
+[Consulter mon rapport technique (PDF)]({{ '/rapports/rapport-senelec.pdf' | relative_url }})
 
 Ce stage à la SENELEC, la Société Nationale d'Électricité du Sénégal,
 m'a donné une première expérience concrète du terrain. J'y ai compris
