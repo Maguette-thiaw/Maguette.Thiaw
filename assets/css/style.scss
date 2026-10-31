@@ -1,10 +1,11 @@
-
 ---
 ---
 
 @import "{{ site.theme }}";
 
-/* IDENTITÉ VISUELLE */
+/* ==============================
+   1. IDENTITÉ VISUELLE
+============================== */
 
 :root {
   --navy: #10243B;
@@ -20,7 +21,9 @@ body {
   line-height: 1.7;
 }
 
-/* MISE EN PAGE */
+/* ==============================
+   2. MISE EN PAGE PLEINE LARGEUR
+============================== */
 
 .wrapper {
   width: 92%;
@@ -28,22 +31,25 @@ body {
   margin: 0 auto;
 }
 
-header {
-  display: none !important;
-}
-
-section {
-  float: none;
-  width: 100%;
-  max-width: none;
-  padding: 25px 0 60px;
-  box-sizing: border-box;
-}
-
+header,
+section,
 footer {
   float: none;
   position: relative;
   width: 100%;
+  max-width: none;
+}
+
+header {
+  padding: 20px 0;
+}
+
+section {
+  padding: 25px 0 60px;
+}
+
+footer {
+  padding: 20px 0;
 }
 
 main {
@@ -54,7 +60,9 @@ main {
   border-radius: 12px;
 }
 
-/* NAVIGATION */
+/* ==============================
+   3. NAVIGATION
+============================== */
 
 .main-navigation {
   display: flex;
@@ -83,9 +91,13 @@ main {
   color: #FFFFFF;
 }
 
-/* TITRES ET LIENS */
+/* ==============================
+   4. TITRES ET TEXTES
+============================== */
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   color: var(--navy);
 }
 
@@ -108,10 +120,12 @@ a:hover {
   color: var(--navy);
 }
 
-/* PRÉSENTATION DE L'ACCUEIL */
+/* ==============================
+   5. PAGE D'ACCUEIL
+============================== */
 
 .hero-heading {
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 .eyebrow {
@@ -121,17 +135,14 @@ a:hover {
   letter-spacing: 1.5px;
 }
 
-/* PHOTO */
-
 .hero-profile {
-  margin: 20px 0 30px;
+  margin: 20px 0;
 }
 
 .hero-profile img {
   display: block;
-  width: 250px;
-  height: 250px;
-  max-width: none;
+  width: 170px;
+  height: 170px;
   object-fit: cover;
   object-position: center;
   border-radius: 50%;
@@ -139,12 +150,10 @@ a:hover {
   box-shadow: 0 3px 12px rgba(16, 36, 59, 0.12);
 }
 
-/* DESCRIPTION */
-
 .portfolio-description {
-  color: #526174;
   font-size: 1.05em;
-  margin: 0 0 25px;
+  color: #526174;
+  margin-bottom: 30px;
 }
 
 .hero-text {
@@ -152,10 +161,8 @@ a:hover {
 }
 
 .hero-text h2 {
-  margin-top: 0;
+  margin-top: 20px;
 }
-
-/* BOUTON */
 
 .hero-button {
   display: inline-block;
@@ -173,11 +180,14 @@ a:hover {
   color: #FFFFFF;
 }
 
-/* IMAGES ET PROJETS */
+/* ==============================
+   6. IMAGES ET PROJETS
+============================== */
 
 img {
   max-width: 100%;
   height: auto;
+  border-radius: 10px;
 }
 
 .project-image {
@@ -215,9 +225,11 @@ img {
   font-size: 0.9em;
 }
 
-/* TÉLÉPHONES */
+/* ==============================
+   7. ADAPTATION AUX TÉLÉPHONES
+============================== */
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 600px) {
 
   .wrapper {
     width: 94%;
@@ -237,8 +249,8 @@ img {
   }
 
   .hero-profile img {
-    width: 180px;
-    height: 180px;
+    width: 140px;
+    height: 140px;
   }
 
   .project-gallery {
@@ -249,10 +261,3 @@ img {
     height: auto;
   }
 }
-
-
-  .project-gallery img {
-    height: auto;
-  }
-}
-
