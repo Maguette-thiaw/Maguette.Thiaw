@@ -13,7 +13,7 @@ en génie électrique et en énergie électrique.
 <figure>
   <img src="{{ '/img/senelec/photo2.jpg' | relative_url }}"
        alt="Intervention sur un poste électrique">
-  <figcaption>Illustration d'une activité réalisée durant mon stage à la SENELEC.</figcaption>
+  <figcaption>Poste de transformation HTA/BT – Installation de distribution électrique.</figcaption>
 </figure>
 
 ### Contexte
