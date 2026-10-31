@@ -261,3 +261,8 @@ img {
     height: auto;
   }
 }
+
+/* Masquer l'en-tête automatique du thème Minimal */
+header {
+  display: none !important;
+}
