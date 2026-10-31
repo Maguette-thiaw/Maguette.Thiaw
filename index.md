@@ -3,6 +3,9 @@ layout: default
 title: Accueil
 ---
 
+<canvas id="energy-canvas" aria-hidden="true"></canvas>
+<script src="{{ '/assets/js/energy-animation.js' | relative_url }}" defer></script>
+
 {% include navigation.html %}
 
 <div class="hero">
