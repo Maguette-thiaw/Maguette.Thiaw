@@ -77,10 +77,6 @@ Ce projet m'a surtout permis d'apprendre à coder pour piloter un
 système réel, et de faire le lien entre la programmation et le
 fonctionnement d'un équipement électrique.
 
-**Programmation et pilotage d'une pompe depuis un microcontrôleur.**
-
-[Lien vers le projet](#)
-
 ---
 
 #### Africa Féliz : dimensionnement d'un système solaire autonome
@@ -123,11 +119,6 @@ puissance, automatique, contrôle-commande. J'ai donné un cadre théorique
 
 ### Projet de groupe : une interface entre un capteur à ultrasons et une Arduino
 
-<!-- Image : capteur HC-SR04 -->
-<div class="project-image">
-  <img src="{{ '/img/capteur-hc-sr04.png' | relative_url }}" alt="Capteur à ultrasons HC-SR04">
-</div>
-
 Ce projet était réparti en plusieurs parties, et mon groupe était chargé
 de la partie électronique. Il fallait concevoir l'interface entre un
 capteur de distance à ultrasons et une carte Arduino, sans microcontrôleur,
@@ -136,21 +127,8 @@ capteur, récupère son signal et le transforme en une tension proportionnelle
 à la distance, à raison de 1 V par mètre, avant de la renvoyer à l'Arduino.
 Nous l'avons construite en quatre blocs, simulés sous LT-SPICE, puis câblés
 et testés un par un sur platine.
-
-<div class="project-gallery">
-  <figure>
-    <img src="{{ '/img/schema-blocs.png' | relative_url }}" alt="Schéma en blocs de l'interface">
-    <figcaption>Schéma en blocs de l'interface</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/img/simulation-ltspice.png' | relative_url }}" alt="Simulation LT-SPICE">
-    <figcaption>Simulation LT-SPICE</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/img/montage-platine.png' | relative_url }}" alt="Montage sur platine">
-    <figcaption>Montage sur platine</figcaption>
-  </figure>
-</div>
+Malheureusement, j‘ai plus des photos du projet mais je vais toute de meme 
+mettre le lien d‘un fichier expliquant le projet.
 
 Ce projet m'a appris à concevoir un circuit étape par étape : l'analyser,
 le simuler, puis le câbler et le tester bloc par bloc. Il m'a aussi
