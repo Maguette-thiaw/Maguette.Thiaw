@@ -65,7 +65,7 @@ sécurité au contact d'installations réelles.
 
 <!-- Image : une pompe -->
 <div class="project-image">
-  <img src="{{ '/img/pompe.png' | relative_url }}" alt="Projet de commande d'une pompe">
+  <img src="{{ '/img/pompe.jpg' | relative_url }}" alt="Projet de commande d'une pompe">
 </div>
 
 Ce projet a été réalisé en classe, pendant mon DUT. Il consistait à
