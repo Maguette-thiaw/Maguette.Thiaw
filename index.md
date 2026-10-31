@@ -44,6 +44,7 @@ title: Accueil
   </div>
 
 </div>
+
 ---
 
 ## Bienvenue sur mon portfolio
@@ -67,4 +68,6 @@ infrastructures énergétiques.
 
 ---
 
-## Me retrouverIn](https://linkedin.com/in/maguette-thiaw-6133b6389)
+## Me retrouver
+
+- **LinkedIn :** [Maguette THIAW](https://linkedin.com/in/maguette-thiaw-6133b6389)
