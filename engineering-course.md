@@ -87,7 +87,7 @@ fonctionnement d'un équipement électrique.
 
 <!-- Image : un panneau solaire -->
 <div class="project-image">
-  <img src="{{ '/img/panneau-solaire.png' | relative_url }}" alt="Panneau solaire">
+  <img src="{{ '/img/panneau-solaire.jpg' | relative_url }}" alt="Panneau solaire">
 </div>
 
 J'ai passé deux semaines en stage chez Africa Féliz, à Thiès, sur les
