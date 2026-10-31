@@ -27,7 +27,7 @@ confronter un schéma à la réalité : câbler, mesurer, tester, recommencer.
 
 <!-- Image : un poste HTA/BT -->
 <div class="project-image">
-  <img src="{{ '/img/senelec-poste.png' | relative_url }}" alt="Un poste HTA/BT">
+  <img src="{{ '/img/senelec-poste.jpg' | relative_url }}" alt="Un poste HTA/BT">
 </div>
 
 Pendant mon stage, j'ai participé à la maintenance préventive de postes
@@ -39,11 +39,11 @@ diagnostic sur place.
 
 <div class="project-gallery">
   <figure>
-    <img src="{{ '/img/thermographie.png' | relative_url }}" alt="Mesures de thermographie">
+    <img src="{{ '/img/thermographie.jpg' | relative_url }}" alt="Mesures de thermographie">
     <figcaption>Mesures de thermographie</figcaption>
   </figure>
   <figure>
-    <img src="{{ '/img/pd-scan.png' | relative_url }}" alt="Mesures au PD Scan">
+    <img src="{{ '/img/pd-scan.jpg' | relative_url }}" alt="Mesures au PD Scan">
     <figcaption>Mesures au PD Scan</figcaption>
   </figure>
 </div>
