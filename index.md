@@ -12,35 +12,29 @@ title: Accueil
     <h1>Maguette THIAW</h1>
   </div>
 
-  <div class="hero-content">
+  <div class="hero-profile">
+    <img src="{{ '/img/portrait-professionnel.png' | relative_url }}"
+         alt="Portrait de Maguette THIAW">
+  </div>
 
-    <div class="hero-photo">
-      <img src="{{ '/img/portrait-professionnel.png' | relative_url }}"
-           alt="Portrait de Maguette THIAW">
-    </div>
+  <p class="portfolio-description">
+    Portfolio d'élève-ingénieure en énergie électrique –
+    Systèmes électriques, réseaux et installations de puissance
+  </p>
 
-    <div class="hero-text">
+  <div class="hero-text">
+    <h2>Énergie électrique</h2>
 
-      <p class="portfolio-description">
-        Portfolio d'élève-ingénieure en énergie électrique –
-        Systèmes électriques, réseaux et installations de puissance
-      </p>
+    <p><strong>Toulouse INP – ENSEEIHT | Département 3EA</strong></p>
 
-      <h2>Énergie électrique</h2>
+    <p>
+      Je m'intéresse aux systèmes électriques, aux réseaux de transport
+      et de distribution d'énergie ainsi qu'aux installations de puissance.
+    </p>
 
-      <p><strong>Toulouse INP – ENSEEIHT | Département 3EA</strong></p>
-
-      <p>
-        Je m'intéresse aux systèmes électriques, aux réseaux de transport
-        et de distribution d'énergie ainsi qu'aux installations de puissance.
-      </p>
-
-      <a class="hero-button" href="{{ '/engineering-course/' | relative_url }}">
-        Découvrir mon parcours
-      </a>
-
-    </div>
-
+    <a class="hero-button" href="{{ '/engineering-course/' | relative_url }}">
+      Découvrir mon parcours
+    </a>
   </div>
 
 </div>
