@@ -103,7 +103,7 @@ ce dimensionnement.
     <figcaption>Photo prise pendant le stage</figcaption>
   </figure>
   <figure>
-    <img src="{{ '/img/africa-feliz-2.png' | relative_url }}" alt="Photo prise pendant le stage chez Africa Féliz">
+    <img src="{{ '/img/africa-feliz-2.jpg' | relative_url }}" alt="Photo prise pendant le stage chez Africa Féliz">
     <figcaption>Photo prise pendant le stage</figcaption>
   </figure>
 </div>
