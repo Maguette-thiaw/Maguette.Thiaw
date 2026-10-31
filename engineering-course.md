@@ -35,6 +35,7 @@ participer aux opérations de maintenance préventive des équipements.
   la thermographie et le PD Scan.
 - Lecture et exploitation de documents et de plans électriques.
 - Application des consignes de sécurité lors des interventions.
+- Rédation de rapport
 
 ### Illustrations techniques
 
@@ -59,9 +60,10 @@ les opérations de maintenance et les outils utilisés.
 
 ### Retour d'expérience
 
-Ce stage m'a permis de mieux comprendre les réalités du terrain
-et l'importance de la maintenance dans la fiabilité et la continuité
-de la distribution de l'énergie électrique.
+À l'issue de ce stage, j'ai pu découvrir les réalités du 
+terrain, mieux comprendre les enjeux de la maintenance électrique 
+et me familiariser avec des méthodes de contrôle telles que la thermographie 
+et le PD Scan.
 
 ---
 
