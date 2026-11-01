@@ -1,8 +1,5 @@
 
 ---
-layout: default
-title: Activités
-permalink: /activities/
 ---
 
 {% include navigation.html %}
