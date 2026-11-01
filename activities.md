@@ -13,13 +13,30 @@ En parallèle de mon parcours d'ingénieure à Toulouse INP – ENSEEIHT, je sou
 
 ---
 
-## 🏸 Badminton à l'ENSEEIHT
+<div class="engagement-section">
 
-Dans le cadre de ma formation, j'ai l'occasion de pratiquer le badminton à travers les activités sportives proposées aux étudiants.
+  <div class="engagement-text">
+    <h2>🏸 Badminton à l'ENSEEIHT</h2>
 
-Cette pratique me permet de faire une pause dans le rythme des études, de rester active et de partager des moments avec d'autres étudiants dans un cadre convivial.
+    <p>
+      Dans le cadre de ma formation, j'ai l'occasion de pratiquer le badminton à travers les activités sportives proposées aux étudiants.
+    </p>
 
-Au-delà de l'activité physique, le badminton sollicite la concentration, la réactivité et la coordination. C'est également une occasion de développer l'esprit sportif et le respect des autres.
+    <p>
+      Cette pratique me permet de faire une pause dans le rythme des études, de rester active et de partager des moments avec d'autres étudiants dans un cadre convivial.
+    </p>
+
+    <p>
+      Au-delà de l'activité physique, le badminton sollicite la concentration, la réactivité et la coordination. C'est également une occasion de développer l'esprit sportif et le respect des autres.
+    </p>
+  </div>
+
+  <div class="engagement-visual">
+    <img src="{{ '/img/badminton.jpg' | relative_url }}"
+         alt="Badminton à l'ENSEEIHT">
+  </div>
+
+</div>
 
 ---
 
