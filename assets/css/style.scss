@@ -444,3 +444,13 @@ header {
   object-fit: contain;
   border-radius: 8px;
 }
+
+.activity-image img {
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  max-height: 300px;
+  margin: 25px auto;
+  object-fit: cover;
+  border-radius: 8px;
+}
