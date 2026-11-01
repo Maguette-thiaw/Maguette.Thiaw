@@ -1,3 +1,5 @@
+---
+layout: default
 title: Projet professionnel
 permalink: /career-development/
 ---
@@ -6,14 +8,21 @@ permalink: /career-development/
 
 # Projet professionnel
 
-## Mon objectif
+## ⚡ Mon ambition dans le secteur de l'énergie
 
-Mon ambition est de contribuer au développement et à l'amélioration des systèmes électriques, avec un intérêt particulier pour l'énergie électrique, les réseaux de transport et de distribution ainsi que les installations de puissance.
+Je souhaite construire mon parcours professionnel dans le domaine du génie électrique, avec un intérêt particulier pour les réseaux électriques, le transport et la distribution de l'énergie.
 
-## Mon parcours professionnel
+Mon objectif est de développer une expertise technique qui me permettra de participer à la conception, à l'exploitation et à la modernisation des infrastructures électriques.
 
-Cette page présentera mes expériences professionnelles, mes stages, mes compétences et les étapes de construction de mon projet professionnel.
+À travers ma formation d'ingénieure à Toulouse INP – ENSEEIHT, je souhaite progressivement acquérir les connaissances et l'expérience nécessaires pour concrétiser cette ambition.
 
-## Mes perspectives
+À plus long terme, j'aimerais mettre mes compétences au service de projets énergétiques, notamment au Sénégal, et contribuer au développement de ses infrastructures électriques.
 
-Je souhaite approfondir mes compétences en génie électrique et développer mon expérience dans le domaine des réseaux électriques et des infrastructures énergétiques.
+---
+
+## 📄 Mes CV
+
+Retrouvez ci-dessous mes CV en français et en anglais :
+
+- [Consulter mon CV en français (PDF)](LIEN_CV_FR)
+- [View my CV in English (PDF)](LIEN_CV_EN)
