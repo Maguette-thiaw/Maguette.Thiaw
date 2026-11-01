@@ -50,7 +50,7 @@ diagnostic sur place.
 
 **Rapport technique**
 
-[Consulter mon rapport technique (PDF)]({{ '/rapports/Rapport Inspection Thermo_ DU 07 juillet 2025 (2).pdf.pdf' | relative_url }})
+[Consulter mon rapport technique (PDF)]({{ '/Rapport_inspection_thermo.pdf' | relative_url }})
 
 Ce stage à la SENELEC, la Société Nationale d'Électricité du Sénégal,
 m'a donné une première expérience concrète du terrain. J'y ai compris
