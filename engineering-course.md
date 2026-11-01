@@ -102,7 +102,7 @@ compte des contraintes environnementales, pour déterminer le système
 adapté. J'ai ensuite préparé les documents techniques qui accompagnent
 ce dimensionnement.
 
-<div class="project-gallery">
+<div class="project-gallery senelec-gallery">
   <figure>
     <img src="{{ '/img/africa-feliz-1.png' | relative_url }}" alt="Photo prise pendant le stage chez Africa Féliz">
     <figcaption>Photo prise pendant le stage</figcaption>
