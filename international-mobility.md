@@ -19,7 +19,7 @@ Mon projet s'oriente vers trois destinations qui présentent un intérêt partic
     <h3>RWTH Aachen University</h3>
 
     <div class="mobility-image">
-      <img src="{{ '/img/mobilite/allemagne.jpg' | relative_url }}" alt="Université et ville d'Aix-la-Chapelle en Allemagne">
+      <img src="{{ '/img/allemagne.jpg' | relative_url }}" alt="Université et ville d'Aix-la-Chapelle en Allemagne">
     </div>
 
     <p>L'Allemagne représente pour moi une destination particulièrement intéressante en raison de son développement industriel et de son expertise dans le domaine de l'énergie électrique.</p>
@@ -36,7 +36,7 @@ Mon projet s'oriente vers trois destinations qui présentent un intérêt partic
     <h3>Aalto University</h3>
 
     <div class="mobility-image">
-      <img src="{{ '/img/mobilite/finlande.jpg' | relative_url }}" alt="Campus universitaire en Finlande">
+      <img src="{{ '/img/finlande.jpg' | relative_url }}" alt="Campus universitaire en Finlande">
     </div>
 
     <p>La Finlande m'intéresse particulièrement pour son approche innovante des technologies et de la transition énergétique.</p>
@@ -53,7 +53,7 @@ Mon projet s'oriente vers trois destinations qui présentent un intérêt partic
     <h3>University of São Paulo</h3>
 
     <div class="mobility-image">
-      <img src="{{ '/img/mobilite/bresil.jpg' | relative_url }}" alt="Université de São Paulo au Brésil">
+      <img src="{{ '/img/bresil.jpg' | relative_url }}" alt="Université de São Paulo au Brésil">
     </div>
 
     <p>Le Brésil constitue une destination qui m'intéresse notamment pour l'importance de ses infrastructures énergétiques et la place de l'hydroélectricité dans sa production électrique.</p>
