@@ -435,3 +435,12 @@ header {
     gap: 20px;
   }
 }
+
+.engagement-visual img {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+}
