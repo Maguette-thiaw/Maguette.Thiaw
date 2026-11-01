@@ -10,7 +10,7 @@ permalink: /international-mobility/
 
 Dans le cadre de mon cycle ingénieur à Toulouse INP – ENSEEIHT, je souhaite effectuer une mobilité internationale afin d'enrichir ma formation, de découvrir d'autres approches du génie électrique et de développer une ouverture sur les enjeux énergétiques à l'échelle internationale.
 
-Mon projet s'oriente vers trois destinations qui présentent un intérêt particulier pour mon domaine : l'Allemagne, la Finlande et le Brésil.
+Mes projets de mobilité sont inspirés par trois personnalités dont les parcours m'intéressent particulièrement : Nikola Tesla, mon grand frère Cheikh Thiaw et mon ancien maître de stage à SENELEC, Babacar Diagne.
 
 <div class="mobility-grid">
 
@@ -22,13 +22,11 @@ Mon projet s'oriente vers trois destinations qui présentent un intérêt partic
       <img src="{{ '/img/allemagne.jpg' | relative_url }}" alt="Université et ville d'Aix-la-Chapelle en Allemagne">
     </div>
 
-    <p>L'Allemagne représente pour moi une destination particulièrement intéressante en raison de son développement industriel et de son expertise dans le domaine de l'énergie électrique.</p>
+    <p>Ce projet est inspiré par le parcours de mon grand frère, Cheikh Thiaw, qui possède une expérience dans les domaines de l'électronique et des énergies renouvelables. Son expérience d'études en Allemagne m'encourage également à envisager une mobilité dans ce pays.</p>
 
-    <p>Je souhaiterais approfondir mes connaissances sur les réseaux électriques, les systèmes de puissance et l'intégration des énergies renouvelables. Étudier à la RWTH Aachen University serait une occasion de découvrir d'autres méthodes de conception et de gestion des infrastructures électriques.</p>
+    <p>Je souhaiterais approfondir mes compétences en électronique, en systèmes énergétiques et en intégration des énergies renouvelables. Cette mobilité serait une occasion de découvrir un environnement universitaire et technologique différent.</p>
 
-    <p>Cette mobilité serait en cohérence avec mon projet professionnel, puisque je souhaite évoluer dans le secteur du transport et de la distribution de l'électricité.</p>
-
-    <p>Sur le plan personnel, cette expérience me permettrait également de découvrir la culture allemande, de développer mes capacités d'adaptation et de gagner en autonomie.</p>
+    <p>Sur le plan personnel, étudier en Allemagne me permettrait de gagner en autonomie, de développer mes capacités d'adaptation et de découvrir une nouvelle culture.</p>
   </article>
 
   <article class="mobility-card">
@@ -43,6 +41,8 @@ Mon projet s'oriente vers trois destinations qui présentent un intérêt partic
 
     <p>Je souhaiterais découvrir les avancées dans le domaine des réseaux électriques intelligents (smart grids), de l'efficacité énergétique et de la gestion des systèmes électriques. Cette université pourrait me permettre d'approfondir mes connaissances sur les nouvelles solutions qui contribuent à rendre les réseaux plus performants et plus durables.</p>
 
+   <p>Ce projet est inspiré aussi par Babacar Diagne, mon ancien maître de stage à SENELEC. Son expérience professionnelle m'a permis de mieux comprendre les réalités du secteur de la distribution électrique et l'importance de la maintenance des installations.</p>
+   
     <p>Cette expérience représenterait une opportunité d'élargir ma vision du génie électrique et de mieux comprendre les évolutions du secteur énergétique.</p>
 
     <p>Vivre et étudier en Finlande serait également l'occasion de découvrir un nouvel environnement culturel, d'améliorer ma pratique de l'anglais et de développer mon autonomie.</p>
@@ -60,7 +60,8 @@ Mon projet s'oriente vers trois destinations qui présentent un intérêt partic
 
     <p>Je souhaiterais mieux comprendre le fonctionnement des grands systèmes de production d'électricité, leur raccordement aux réseaux et les enjeux liés au transport de l'énergie sur de longues distances.</p>
 
-    <p>Cette mobilité me permettrait de découvrir un contexte énergétique différent de celui que je connais et d'enrichir mes connaissances sur les systèmes électriques à grande échelle.</p>
+   <p>Ce projet de mobilité m‘a aussi été inspiré par José Eduardo Moreira, ingénieur brésilien ayant contribué à la réalisation de grands projets hydroélectriques. Son parcours m'intéresse particulièrement en raison de son implication dans le développement des infrastructures énergétiques au Brésil.</p>
+
 
     <p>Sur le plan personnel, cette expérience serait une occasion de découvrir la culture brésilienne, d'apprendre à évoluer dans un environnement international et de développer mon ouverture d'esprit.</p>
   </article>
