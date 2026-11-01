@@ -130,6 +130,8 @@ et testés un par un sur platine.
 Malheureusement, j‘ai plus des photos du projet mais je vais toute de meme 
 mettre le lien d‘un fichier expliquant le projet.
 
+[Lien du fichier (PDF)]({{ '/Projet_L3EEA.pdf' | relative_url }})
+
 Ce projet m'a appris à concevoir un circuit étape par étape : l'analyser,
 le simuler, puis le câbler et le tester bloc par bloc. Il m'a aussi
 appris à travailler en groupe sur un système dont chaque partie dépend
