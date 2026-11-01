@@ -53,12 +53,10 @@ permalink: /sustainability/
     </p>
   </div>
 
-  <div class="engagement-visual">
-    <p class="visual-label">FUTUR PROCHE</p>
-    <h3>Festival des campus en transitions</h3>
-    <p>9–10 octobre 2025</p>
-    <span>Écologie • Société • Responsabilité</span>
-  </div>
+<div class="engagement-visual">
+  <img src="{{ '/img/futur-proche.jpg' | relative_url }}"
+       alt="Affiche du festival Futur proche">
+</div>
 
 </div>
 
