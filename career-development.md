@@ -24,5 +24,5 @@ Mon objectif est de développer une expertise technique qui me permettra de part
 
 Retrouvez ci-dessous mes CV en français et en anglais :
 
-- [Consulter mon CV en français (PDF)]({{ '/rapports/CV_Maguette_Thiaw_FR.pdf' | relative_url }})
-- [View my CV in English (PDF)]({{ '/rapports/CV_Maguette_Thiaw_EN.pdf' | relative_url }})
+- [Consulter mon CV en français (PDF)]({{ '/CV_Maguette_Thiaw_FR.pdf' | relative_url }})
+- [View my CV in English (PDF)]({{ '/CV_Maguette_Thiaw_EN.pdf' | relative_url }})
