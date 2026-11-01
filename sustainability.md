@@ -1,8 +1,5 @@
 
 ---
-layout: default
-title: Engagement et durabilité
-permalink: /sustainability/
 ---
 
 {% include navigation.html %}
