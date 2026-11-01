@@ -45,11 +45,12 @@ panne. Je rédigeais ensuite des rapports techniques sur ce que nous
 avions relevé, puis ils étaient transmis à l'équipe chargée du
 diagnostic sur place.
 
-<div class="project-gallery">
+<div class="project-gallery senelec-gallery">
   <figure>
     <img src="{{ '/img/thermographie.jpg' | relative_url }}" alt="Mesures de thermographie">
     <figcaption>Mesures de thermographie</figcaption>
   </figure>
+
   <figure>
     <img src="{{ '/img/pd-scan.jpg' | relative_url }}" alt="Mesures au PD Scan">
     <figcaption>Mesures au PD Scan</figcaption>
