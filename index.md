@@ -65,6 +65,22 @@ infrastructures énergétiques.
 
 ---
 
+## My Elevator Pitch
+
+Découvrez mon parcours, mes inspirations et mon projet professionnel
+à travers cette courte présentation vidéo.
+
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/ID_DE_TA_VIDEO"
+    title="My Elevator Pitch - Maguette Thiaw"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
 ## Me retrouver
 
 - **LinkedIn :** [Maguette THIAW](https://linkedin.com/in/maguette-thiaw-6133b6389)
