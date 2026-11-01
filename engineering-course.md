@@ -26,15 +26,15 @@ confronter un schéma à la réalité : câbler, mesurer, tester, recommencer.
 #### SENELEC : maintenance préventive en postes HTA et BT
 
 <!-- Image : un poste HTA/BT -->
-<div class="project-gallery">
+<div class="project-gallery senelec-gallery">
   <figure>
-    <img src="{{ '/img/senelec-poste.jpg' | relative_url }}" alt="Un poste HTA/BT">
+    <img src="{{ '/img/senelec-poste.jpg' | relative_url }}" alt="Poste électrique HTA/BT">
     <figcaption>Poste électrique HTA/BT</figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '/img/nouvelle-photo.jpg' | relative_url }}" alt="Photo de mon projet SENELEC">
-    <figcaption>Intervention lors du stage à la SENELEC</figcaption>
+    <img src="{{ '/img/nouvelle-photo.jpg' | relative_url }}" alt="Photo de mon stage à la SENELEC">
+    <figcaption>Stage à la SENELEC</figcaption>
   </figure>
 </div>
 
