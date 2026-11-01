@@ -495,11 +495,12 @@ header {
   border-radius: 10px;
 }
 
-/* Masquer le pied de page du thème GitHub */
-footer {
+/* Masquer les mentions GitHub sur toutes les pages */
+footer,
+.site-footer,
+#footer {
   display: none !important;
 }
-
 @media (max-width: 600px) {
   .senelec-gallery {
     grid-template-columns: 1fr;
