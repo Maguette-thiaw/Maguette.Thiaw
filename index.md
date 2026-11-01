@@ -71,12 +71,10 @@ Découvrez mon parcours, mes inspirations et mon projet professionnel
 à travers cette courte présentation vidéo.
 
 <div class="video-container">
-  <iframe
-    src="https://www.youtube.com/embed/ID_DE_TA_VIDEO"
-    title="My Elevator Pitch - Maguette Thiaw"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
+  <video controls preload="metadata">
+    <source src="{{ '/assets/videos/elevator-pitch.mp4' | relative_url }}" type="video/mp4">
+    Votre navigateur ne peut pas lire cette vidéo.
+  </video>
 </div>
 
 ---
