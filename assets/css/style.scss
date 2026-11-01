@@ -363,3 +363,75 @@ header {
     margin: 20px -15px;
   }
 }
+
+/* =================================
+   ENGAGEMENT ET DURABILITÉ
+================================= */
+
+.engagement-section {
+  display: grid;
+  grid-template-columns: 1.5fr 0.8fr;
+  gap: 35px;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.engagement-text h2 {
+  margin-top: 0;
+}
+
+.engagement-text h3 {
+  margin-top: 22px;
+  font-size: 1.05em;
+}
+
+.engagement-visual {
+  padding: 35px 22px;
+  min-height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: #EDE7F6;
+  border-radius: 10px;
+  color: #49316B;
+}
+
+.engagement-visual .visual-label {
+  font-size: 1.8em;
+  font-weight: 800;
+  color: #F29B38;
+  letter-spacing: 2px;
+}
+
+.engagement-visual h3 {
+  color: #49316B;
+  font-size: 1.25em;
+}
+
+.engagement-visual span {
+  font-size: 0.9em;
+  font-weight: 600;
+}
+
+.climate-visual {
+  background: #E6F2E9;
+  color: #24543A;
+}
+
+.climate-visual h3 {
+  color: #24543A;
+}
+
+.climate-icon {
+  font-size: 3.5em;
+  margin-bottom: 12px;
+}
+
+@media screen and (max-width: 800px) {
+  .engagement-section {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
