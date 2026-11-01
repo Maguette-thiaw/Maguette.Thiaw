@@ -16,7 +16,7 @@ Mon objectif est de développer une expertise technique qui me permettra de part
 
 À travers ma formation d'ingénieure à Toulouse INP – ENSEEIHT, je souhaite progressivement acquérir les connaissances et l'expérience nécessaires pour concrétiser cette ambition.
 
-À plus long terme, j'aimerais mettre mes compétences au service de projets énergétiques, notamment au Sénégal, et contribuer au développement de ses infrastructures électriques.
+À plus long terme, j'aimerais mettre mes compétences au service de projets énergétiques et contribuer au développement de ses infrastructures électriques.
 
 ---
 
