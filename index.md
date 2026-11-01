@@ -82,3 +82,4 @@ Découvrez mon parcours, mes inspirations et mon projet professionnel
 ## Me retrouver
 
 - **LinkedIn :** [Maguette THIAW](https://linkedin.com/in/maguette-thiaw-6133b6389)
+- **E-mail :** <a href="mailto: thiawmaguette036@gmail.com">Me contacter</a>
