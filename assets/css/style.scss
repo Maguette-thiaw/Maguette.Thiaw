@@ -506,3 +506,45 @@ footer,
     grid-template-columns: 1fr;
   }
 }
+
+
+<nav class="main-navigation">
+  <a href="{{ '/' | relative_url }}">Accueil</a>
+  <a href="{{ '/engineering-course' | relative_url }}">Formation ingénieur</a>
+  <a href="{{ '/international-mobility' | relative_url }}">Mobilité internationale</a>
+  <a href="{{ '/sustainability' | relative_url }}">Engagement & durabilité</a>
+  <a href="{{ '/activities' | relative_url }}">Activités</a>
+  <a href="{{ '/career-development' | relative_url }}">Projet professionnel</a>
+
+  <div class="language-switch">
+    <button type="button" onclick="changeLanguage('fr')">FR</button>
+    <span>|</span>
+    <button type="button" onclick="changeLanguage('en')">EN</button>
+  </div>
+</nav>
+
+<div id="google_translate_element" style="display:none;"></div>
+
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'fr',
+    includedLanguages: 'fr,en',
+    autoDisplay: false
+  }, 'google_translate_element');
+}
+
+function changeLanguage(language) {
+  const select = document.querySelector('.goog-te-combo');
+
+  if (!select) {
+    alert("Le traducteur est en cours de chargement. Réessaie dans quelques secondes.");
+    return;
+  }
+
+  select.value = language;
+  select.dispatchEvent(new Event('change'));
+}
+</script>
+
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
